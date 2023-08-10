@@ -101,3 +101,4 @@ while True:
     # increasing balance according to how much the computer did not guess
     balance += len(predicted_triad) - percentage_match[0]
     print(f"Your balance is now ${balance}")
+#a
